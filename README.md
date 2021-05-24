@@ -16,7 +16,7 @@ Meu nome é Vitor, eu moro no brasil, e eu amo programação. | My name is Vitor
 
 ## Estudando atualmente | Currently studying 🕵🏽    
 - Ingles | English
-- Curso de programação | Programming course: (JavaScript, HTTPS, CSS)
+- Curso de programação | Programming course: (JavaScript, HTML, CSS)
 - Curso de informática | Computer course: (Word, exel, ppt, windows 10) 
 
 ## Redes sociais | Social networks ✅
