@@ -21,4 +21,4 @@ Meu nome é Vitor, eu moro no brasil, e eu amo programação. | My name is Vitor
 - TikTok: v1t_ofc
 
 ### Contato | Contact 
-- Gmail: @vmfcr7@gmail.com
+- Gmail: vmfcr7@gmail.com
