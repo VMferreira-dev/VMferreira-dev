@@ -1,16 +1,24 @@
-### Oi pessoal👋
+### Oi pessoal | Hi guys 👋 
 
-<!--
-**VMferreira-dev/VMferreira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitor, eu moro no brasil, e eu amo programação. | My name is Vitor, i live in brazil, and i love programming.
 
-Here are some ideas to get you started:
 
-### 🔭 I’m currently working on testeeuj
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conhecimento | Knowledge
+- JavaScript (Beginner)
+- HTML (Beginner)
+- CSS (Beginner)
+- English (beginner)
+
+### Estudando atualmente | Currently studying
+- Ingles | English
+- JavaScript
+- Curso de informática | Computer course: (Word, exel, ppt, windows 10) 
+
+### Redes sociais | Social networks
+- Instagram: @vitor_mariotti2008
+- Discord: 𝐕𝐢𝐭𝐢𝐧𝐧#7059
+- Twitter: v1t_ofc
+- TikTok: v1t_ofc
+
+### Contato | Contact 
+- Gmail: @vmfcr7@gmail.com
