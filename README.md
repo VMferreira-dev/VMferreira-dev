@@ -4,7 +4,7 @@
 
 ### Oi pessoal | Hi guys 👋 
 
-Meu nome é Vitor, eu moro no brasil, e eu amo programação. | My name is Vitor, i live in brazil, and i love programming.
+Meu nome é Vitor, eu moro no Brasil, e eu amo programação. | My name is Vitor, i live in Brazil, and i love programming.
 
 
 ## Conhecimento | Knowledge 👨🏽‍💻
@@ -17,13 +17,13 @@ Meu nome é Vitor, eu moro no brasil, e eu amo programação. | My name is Vitor
 ## Estudando atualmente | Currently studying 🕵🏽    
 - Ingles | English
 - Curso de programação | Programming course: (JavaScript, HTML, CSS)
-- Curso de informática | Computer course: (Word, exel, ppt, windows 10) 
+- Curso de informática | Computer course: (Word, excel, ppt, windows 10) 
 
 ## Redes sociais | Social networks ✅
-- Instagram: @vitor_mariotti2008
+- Instagram: @vitor_mariotti2008 | https://www.instagram.com/p/COoEvg3Dg-4/?utm_source=ig_web_copy_link
 - Discord: 𝐕𝐢𝐭𝐢𝐧𝐧#7059
-- Twitter: v1t_ofc
-- TikTok: @v1t_ofc
+- Twitter: v1t_ofc | : https://twitter.com/v1t_ofc?s=08
+- TikTok: @v1t_ofc | https://vm.tiktok.com/ZMe7FVh6M/
 
 ## Contato | Contact 🔧
 - Gmail: vmfcr7@gmail.com
