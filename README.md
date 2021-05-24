@@ -3,13 +3,13 @@
 Meu nome é Vitor, eu moro no brasil, e eu amo programação. | My name is Vitor, i live in brazil, and i love programming.
 
 
-### Conhecimento | Knowledge
+### Conhecimento | Knowledge 👨🏽‍💻
 - JavaScript (Beginner)
 - HTML (Beginner)
 - CSS (Beginner)
 - English (beginner)
 
-### Estudando atualmente | Currently studying
+### Estudando atualmente | Currently studying 🕵🏽    
 - Ingles | English
 - JavaScript
 - Curso de informática | Computer course: (Word, exel, ppt, windows 10) 
