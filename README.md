@@ -19,6 +19,10 @@ Meu nome é Vitor, eu moro no Brasil, e eu amo programação. | My name is Vitor
 - Curso de programação | Programming course: (JavaScript, HTML, CSS)
 - Curso de informática | Computer course: (Word, excel, ppt, windows 10) 
 
+## É programador e usa discord? | Are you a programmer and use discord?
+Entre no nosso servidor! | Login to our server!
+- https://discord.gg/WBdwc4WtZy
+
 ## Redes sociais | Social networks ✅
 - Instagram: @vitor_mariotti2008 | https://www.instagram.com/p/COoEvg3Dg-4/?utm_source=ig_web_copy_link
 - Discord: 𝐕𝐢𝐭𝐢𝐧𝐧#7059
