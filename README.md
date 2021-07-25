@@ -9,16 +9,14 @@ Meu nome é Vitor, eu moro no Brasil, e eu amo programação. | My name is Vitor
 
 ## Conhecimento | Knowledge 👨🏽‍💻
 - JavaScript (Beginner)
-- HTML (Beginner)
+- HTML (Intermediary)
 - CSS (Beginner)
-- English (beginner)
+- English (Intermediary)
 - Word, ppt, windows 10 (advanced)
 
 ## Estudando atualmente | Currently studying 🕵🏽    
-- Ingles | English
-- Curso de programação | Programming course: (JavaScript, HTML, CSS)
-- Curso de informática | Computer course: (Word, excel, ppt, windows 10) 
-
+- Inglês | English
+- Curso de programação | Programming course: (JavaScript, HTML5, CSS3)
 ## É programador e usa discord? | Are you a programmer and use discord?
 Entre no nosso servidor! | Login to our server!
 - https://discord.gg/WBdwc4WtZy
