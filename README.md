@@ -1,5 +1,5 @@
 ## Oi pessoal | Hi guys 👋 
-My name is Vitor, i live in Brazil, and i love programming.
+- My name is Vitor, i live in Brazil, and i love programming.
 
 
 ## Conhecimento | Knowledge 👨🏽‍💻
